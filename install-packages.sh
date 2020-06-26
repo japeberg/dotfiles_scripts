@@ -29,3 +29,7 @@ echo "...done"
 
 echo "Install i3wm and shit"
 sudo apt install i3 i3status rofi
+sudo apt-get install fonts-powerline
+sudo apt-get install python3-venv
+sudo apt-get install python3-distutils
+
